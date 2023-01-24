@@ -1,0 +1,7 @@
+
+Exception Handling 
+Logging
+
+State Management  
+
+Popular angular libraries like Angular Material, Bootstrap,rxjs, ngrx/store 
